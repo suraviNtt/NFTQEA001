@@ -1,0 +1,13 @@
+package intro;
+
+public class A {
+
+	int i =0;
+	
+	A a = new A();
+	
+	public static void main(String[] args) {
+		A a = new A();
+		System.out.println();
+	}
+}

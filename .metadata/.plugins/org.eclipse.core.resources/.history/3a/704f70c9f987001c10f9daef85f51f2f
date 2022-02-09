@@ -1,0 +1,16 @@
+package demo;
+
+public class B extends A {
+
+	public void test() {
+
+	}
+	
+	A a = new B();
+	a.test();
+	public static void main(String[] args) {
+		A a = new B();
+		a.test();
+	}
+	
+}

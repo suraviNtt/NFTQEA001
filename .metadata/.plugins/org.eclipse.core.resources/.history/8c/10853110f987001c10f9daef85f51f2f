@@ -1,0 +1,10 @@
+package demo;
+
+public class B extends A {
+
+	public void test() {
+
+	}
+	
+	A a = new B();
+}

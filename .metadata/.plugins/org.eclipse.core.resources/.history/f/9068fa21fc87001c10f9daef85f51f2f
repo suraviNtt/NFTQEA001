@@ -1,0 +1,10 @@
+package demo;
+
+public class POJO {
+
+	int i = 10;
+	
+	int j = 20;
+	 String str = "HI";
+	 
+}

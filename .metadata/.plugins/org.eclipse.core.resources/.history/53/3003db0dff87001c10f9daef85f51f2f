@@ -1,0 +1,15 @@
+package demo;
+
+public abstract class C {
+
+	public void test() {
+		System.out.println("Test");
+	}
+	C(){
+		
+	}
+	public static void main(String[] args) {
+		C c = new C();
+		c.test();
+	}
+}

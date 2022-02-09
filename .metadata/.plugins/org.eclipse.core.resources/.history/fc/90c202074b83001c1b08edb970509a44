@@ -1,0 +1,14 @@
+package intro;
+
+public class B {
+
+	public static void main(String[] args) {
+		A a = new A();
+		a.test();
+		
+	}
+	
+	public void test() {
+		System.out.println("Test B");
+	}
+}

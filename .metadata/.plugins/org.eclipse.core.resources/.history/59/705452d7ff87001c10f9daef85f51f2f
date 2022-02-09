@@ -1,0 +1,8 @@
+package demo;
+
+public interface D {
+
+	public static void test() {
+		
+	}
+}

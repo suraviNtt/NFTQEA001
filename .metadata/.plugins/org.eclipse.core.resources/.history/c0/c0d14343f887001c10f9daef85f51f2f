@@ -1,0 +1,19 @@
+package demo;
+
+public class A {
+
+	A a= new A();
+	
+	public static void main(String[] args) {
+		
+		A a= new A();
+	}
+	
+	public void test() {
+		
+	}
+	
+public void test(int i) {
+		
+	}
+}
